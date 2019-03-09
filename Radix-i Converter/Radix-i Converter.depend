@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1552072262 source:c:\users\muzikayise khuzwayo\documents\muuthekid\school\year2\eee2046f\practicals\prac_1_b\radix-i converter\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
